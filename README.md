@@ -104,4 +104,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-Developed by **[Aarav Saroliya](https://github.com/username)**.
+Developed by **[Aarav Saroliya](https://github.com/Aarav1611)**.
